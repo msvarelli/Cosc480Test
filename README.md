@@ -1,2 +1,3 @@
 # Cosc480Test
-Example repository
+
+This is a test
